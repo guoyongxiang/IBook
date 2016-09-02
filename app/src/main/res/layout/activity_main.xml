@@ -10,6 +10,7 @@
     tools:context="com.rwcc.ibook.MainActivity">
 
     <TextView
+        android:id="@+id/aa"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
